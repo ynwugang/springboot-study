@@ -1,0 +1,16 @@
+spring:
+  #\u5173\u95EDthymeleaf\u7F13\u5B58
+  thymeleaf:
+    cache: false
+  #\u56FD\u9645\u5316\u914D\u7F6E\u6587\u4EF6\u7684\u8DEF\u5F84
+  messages:
+    basename: "i18n.login"
+  #时间日期格式化
+  mvc:
+    format:
+      date: "yyyy-MM-dd"
+
+#\u4FEE\u6539\u9879\u76EE\u8DEF\u5F84
+server:
+  servlet:
+    context-path: "/kuang"
