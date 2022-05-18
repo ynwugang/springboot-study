@@ -1,0 +1,2 @@
+# SpringBoot 所有的配置类，都有一个自动配置类  RedisAutoConfiguration
+# 自动配置类都会绑定一个properties配置文件    RedisProperties
