@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer-server/consumer-server.iml" filepath="$PROJECT_DIR$/consumer/consumer-server/consumer-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zookeeper.iml" filepath="$PROJECT_DIR$/dubbo-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provide-server/provide-server/provide-server.iml" filepath="$PROJECT_DIR$/provide-server/provide-server/provide-server.iml" />
+    </modules>
+  </component>
+</project>
